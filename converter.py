@@ -110,17 +110,17 @@ class Converter:
         )
         self.db_model_open_file.label['text'] = "DB"
 
-        '''one_file
-        '''
-        # checkbox
-        self.var_one_file_checkbox = BooleanVar()
-        self.one_file_checkbox = ttk.Checkbutton(
-            master=self.main_frame,
-            text="One file",
-            variable=self.var_one_file_checkbox
-        )
-        self.var_one_file_checkbox.set(True)
-        self.one_file_checkbox.grid(row=1, column=0, sticky='W')
+        # '''one_file
+        # '''
+        # # checkbox
+        # self.var_one_file_checkbox = BooleanVar()
+        # self.one_file_checkbox = ttk.Checkbutton(
+        #     master=self.main_frame,
+        #     text="One file",
+        #     variable=self.var_one_file_checkbox
+        # )
+        # self.var_one_file_checkbox.set(True)
+        # self.one_file_checkbox.grid(row=1, column=0, sticky='W')
 
         '''block finish button
         '''
