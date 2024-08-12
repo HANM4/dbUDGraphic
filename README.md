@@ -17,3 +17,4 @@ Usage program:
 ## Roadmap
 1. Function for converting the result into a single file
 2. Support for `.xlsx` format for the database
+3. Unit test coverage
