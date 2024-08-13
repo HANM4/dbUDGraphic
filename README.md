@@ -14,6 +14,11 @@ Usage program:
 2. Database selection (`.csv`)
 3. Template selection (`.doc`, `.docx`)
 
+
+
+https://github.com/user-attachments/assets/4f830388-63b8-49ff-be22-ba9510702059
+
+
 ## Roadmap
 1. Function for converting the result into a single file
 2. Support for `.xlsx` format for the database
