@@ -1,6 +1,9 @@
 # Ignore compiled Python bytecode files
 *.pyc
 
+.mypy_cache
+.pytest_cache
+
 # Ignore Python cache directories
 __pycache__/
 
@@ -14,3 +17,4 @@ __pycache__/
 
 /test/data/output/**
 .venv
+build
